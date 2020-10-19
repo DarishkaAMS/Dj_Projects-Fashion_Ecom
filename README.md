@@ -1,2 +1,2 @@
-# solid-invention-blog
-Blog API with Django Rest Framework 
+# solid-invention-ecom
+E-Commerce API with Django Rest Framework 
